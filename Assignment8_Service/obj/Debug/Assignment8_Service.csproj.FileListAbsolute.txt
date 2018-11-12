@@ -1,0 +1,7 @@
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\bin\Assignment8_Service.dll.config
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\bin\Assignment8_Service.dll
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\bin\Assignment8_Service.pdb
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\obj\Debug\Assignment8_Service.csproj.CoreCompileInputs.cache
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\obj\Debug\Assignment8_Service.dll
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\obj\Debug\Assignment8_Service.pdb
+C:\Users\anvit\Desktop\ASU\ThirdSem\DSOD\Assignment8_Service\Assignment8_Service\obj\Debug\Assignment8_Service.csprojAssemblyReference.cache
