@@ -1,5 +1,5 @@
 # WebService-To-Process-XML
-Web Service to process XML using a TRyItPage
+Web Service to validate an XML and Transform it using XSL sytlesheet.A tryIt Page is implemented to test these services.
 
 ## Web Service 1: Verification
 Web operation “verification” takes the URL of an XML (.xml) file and the URL of the corresponding XMLS (.xsd) file as input and validates the XML file against the corresponding XMLS (XSD) file. The Web method returns “No Error” or an error message showing the available
